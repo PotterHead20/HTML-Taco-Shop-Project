@@ -25,6 +25,7 @@ HTML-Taco-Shop-Project/
 ├── index.html
 ├── hours.html
 ├── contact.html
+├── style.css
 ├── img/
 └── README.md
 ```
@@ -32,8 +33,6 @@ HTML-Taco-Shop-Project/
 ## Pages
 
 - Home Page
-- About Section
-- Menu Section
 - Store Hours
 - Contact Us
 
@@ -73,4 +72,4 @@ This project was made for practicing:
 
 ## Author
 
-Pranjal
+Pranjal Shukla
