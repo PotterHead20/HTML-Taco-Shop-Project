@@ -4,19 +4,20 @@ A simple multi-page taco shop website built using pure HTML.
 
 ## Features
 
-- Semantic HTML structure
+- Semantic HTML5 structure
+- Responsive page layout
 - Multi-page navigation
-- Internal page linking
-- Contact page
-- Store hours page
+- About section
 - Menu section
-- Images and lists
-- Forms and input elements
+- Contact form
+- Store hours page
+- Custom CSS styling
+- Images and tables
 
 ## Tech Stack
 
 - HTML5
-- CSS
+- CSS3
 
 ## Project Structure
 
@@ -55,11 +56,10 @@ git clone https://github.com/PotterHead20/HTML-Taco-Shop-Project.git
 This project was made for practicing:
 
 - Semantic HTML
+- CSS styling
 - Navigation links
 - Forms
-- Lists
 - Tables
-- Images
 - Multi-page website structure
 
 ## Author
