@@ -48,15 +48,6 @@ git clone https://github.com/PotterHead20/HTML-Taco-Shop-Project.git
 
 3. Run `index.html` in your browser
 
-## Screenshots
-
-Add screenshots here after uploading them to your repo.
-
-Example:
-
-```md
-![Home Page](img/screenshot.png)
-```
 
 ## Learning Goals
 
