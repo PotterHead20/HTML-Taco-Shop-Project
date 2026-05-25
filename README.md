@@ -16,6 +16,7 @@ A simple multi-page taco shop website built using pure HTML.
 ## Tech Stack
 
 - HTML5
+- CSS
 
 ## Project Structure
 
